@@ -1,2 +1,0 @@
-# rockpaperscissors.js
-# rockpaperscissors.js
